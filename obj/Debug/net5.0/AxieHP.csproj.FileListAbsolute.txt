@@ -1,0 +1,16 @@
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.exe
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.deps.json
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.runtimeconfig.json
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.runtimeconfig.dev.json
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.dll
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\ref\AxieHP.dll
+C:\Users\leiko\Documents\csharp\AxieHP\bin\Debug\net5.0\AxieHP.pdb
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.csproj.AssemblyReference.cache
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.AssemblyInfoInputs.cache
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.AssemblyInfo.cs
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.csproj.CoreCompileInputs.cache
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.dll
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\ref\AxieHP.dll
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.pdb
+C:\Users\leiko\Documents\csharp\AxieHP\obj\Debug\net5.0\AxieHP.genruntimeconfig.cache
